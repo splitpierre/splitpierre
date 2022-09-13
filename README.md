@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/split_pierre?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=split_pierre)
 
-Fullstack developer and entrepreneur with over 15 years expertise in web, mobile and game development, past few years have been diving into web3 and blockchain technologies. Professional experience with the technologies listed in the **toolbox** below.
+Fullstack developer and entrepreneur with over 15 years expertise in web and mobile development, past few years have been diving into game development, web3 and blockchain technologies. Professional experience with the technologies listed in the **toolbox** below.
 
 ---
 
